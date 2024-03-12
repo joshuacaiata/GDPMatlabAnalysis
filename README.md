@@ -1,5 +1,2 @@
-# GDPMatlabAnalysis
-# GDPMatlabAnalysis
-# GDPMatlabAnalysis
-# GDPMatlabAnalysis
-# GDPMatlabAnalysis
+# GDP Matlab Analysis
+A project built to practice using matlab.
